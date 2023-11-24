@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftlogicAlgorithms", "SoftlogicAlgorithms\SoftlogicAlgorithms.csproj", "{BDECBC26-CD17-469F-8A4A-4637A7CF87B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDECBC26-CD17-469F-8A4A-4637A7CF87B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDECBC26-CD17-469F-8A4A-4637A7CF87B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDECBC26-CD17-469F-8A4A-4637A7CF87B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDECBC26-CD17-469F-8A4A-4637A7CF87B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B5D967-190C-4B29-A898-618C77B6EB79}
+	EndGlobalSection
+EndGlobal
